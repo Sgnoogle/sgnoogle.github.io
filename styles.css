@@ -1,0 +1,34 @@
+body {
+    background-color: #E7E970;
+    font-family: 'Roboto', sans-serif;
+    color: #616200;
+}
+
+h1 {
+    color: #616200;
+}
+
+a {
+    color: #616200;
+    text-decoration: none;
+}
+
+h1.bm {
+    color: #616200;
+}
+
+a.bm {
+    color: #3D6657;
+    text-decoration: none;
+}
+
+div.pad {
+    padding: 25px;
+    margin: 0px;
+}
+
+div.line {
+    border: 2px solid grey;
+    padding: 25px;
+    margin: 0px;
+}
